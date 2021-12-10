@@ -1,0 +1,10 @@
+#CNT Geometry prediction
+
+The dataset used in training and testing the different models were obtained using Materials Studio. 
+The results obtained show promising capabilities of the applied algorithms, both in terms of accuracy and efficiency. 
+NN, GBR and LR are the best performing algorithms with 99.3%, 99.3% and 99.13% respectively. 
+ETR, DTR, and KNN gave the lowest accuracy of 94.47%, 94.49%, and 94.60% respectively.
+
+Unlike computational methods that takes a long time to calculate the geometry, machine learning techniques offer faster and more efficient ways to accurately 
+predict the geometry of carbon nanotubes. Some areas of application of our findings include biological and biomedical, nanocomposites, nanoelectronics, 
+nanodevices, among others. 
